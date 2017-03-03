@@ -1,3 +1,5 @@
+Forked from github.com/voidlinux/voidlinux-packages
+
 ## The XBPS source packages collection
 
 This repository contains the XBPS source packages collection to build binary packages
